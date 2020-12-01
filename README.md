@@ -14,7 +14,7 @@ Web accessibility is an increasingly important consideration for businesses. It 
 
 ## Authors
 <ul>
-<li> Rachel Kenney [rjkenney11] </li>
+<li> Rachel Kenney <a href="https://github.com/rjkenney11" target="_blank">rjkenney11</a> </li>
 </ul>
 
 ## Built With
