@@ -12,6 +12,10 @@ Web accessibility is an increasingly important consideration for businesses. It 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/74163812/100693820-a8163400-335b-11eb-96ab-3810025bf5a1.png)
 
+## Authors
+<ul>
+<li> Rachel Kenney [rjkenney11] </li>
+</ul>
 
 ## Built With
 <ul> 
@@ -22,4 +26,4 @@ Web accessibility is an increasingly important consideration for businesses. It 
 ## License
 This project is licensed under the MIT License.
 
-MIT © [Rachel Kenney]()
+MIT ©
